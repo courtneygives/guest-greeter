@@ -1,0 +1,25 @@
+{
+  "name": "guest-greeter",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "guest-greeter.js",
+
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "greet": "bin/guest-greeter-prompt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/cgives/guest-greeter.git"
+  },
+  "author": "Courtney Ives",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/cgives/guest-greeter/issues"
+  },
+  "homepage": "https://gitlab.com/cgives/guest-greeter#README"
+}

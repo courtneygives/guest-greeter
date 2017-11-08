@@ -1,0 +1,8 @@
+{
+  "greetings": {
+    "morning" : "Good morning",
+    "afternoon" : "Good afternoon",
+    "evening" : "Good evening"
+  },
+  "pleasantries" : ", [FIRSTNAME], and Welcome to [COMPANY]! Room [ROOMNUMBER] is now ready for you. Enjoy your stay, and please let us know if you need anything."
+}
