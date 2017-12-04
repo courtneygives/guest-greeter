@@ -1,6 +1,6 @@
 {
   "name": "guest-greeter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "## Overview",
   "main": "guest-greeter.js",
 
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "greet": "bin/guest-greeter-prompt.js"
+    "greet": "bin/prompt.js"
   },
   "repository": {
     "type": "git",
